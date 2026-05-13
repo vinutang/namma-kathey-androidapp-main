@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1023097454285",
+    "project_id": "namma-kathey-fd798",
+    "storage_bucket": "namma-kathey-fd798.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023097454285:android:de2505c508799f8401b384",
+        "android_client_info": {
+          "package_name": "com.nammakathey.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023097454285-bq2ula0asf5dlinv0pki2rlp70t28j1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nammakathey.app",
+            "certificate_hash": "46f04350337018f56289d46902c5f88dae33adcb"
+          }
+        },
+        {
+          "client_id": "1023097454285-gsftdbblc0qpo88m614b7thhag2r8n4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdDMizV494A5y_7uiUu62k8hLQFMxlHSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023097454285-gsftdbblc0qpo88m614b7thhag2r8n4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

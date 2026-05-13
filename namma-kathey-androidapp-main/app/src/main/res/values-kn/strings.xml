@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">ನಮ್ಮ-ಕಥೆ</string>
+    <string name="choose_hero">ನಿಮ್ಮ ವೀರರನ್ನು ಆಯ್ಕೆ ಮಾಡಿ!</string>
+    <string name="listen">ಕೇಳಿ</string>
+    <string name="stop">ನಿಲ್ಲಿಸಿ</string>
+    <string name="play">ಪ್ಲೇ ಮಾಡಿ</string>
+    <string name="quiz_coming_soon">ರಸಪ್ರಶ್ನೆ ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿದೆ!</string>
+    <string name="start_quiz">ರಸಪ್ರಶ್ನೆ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="select_hero">ವೀರರನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="toggle_language">ಭಾಷೆ ಬದಲಾಯಿಸಿ</string>
+    <string name="language_label_kn">ಕನ್ನಡ</string>
+    <string name="language_label_en">English</string>
+    <string name="correct">ಸರಿಯಾಗಿದೆ!</string>
+    <string name="wrong">ತಪ್ಪಾಗಿದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ!</string>
+    <string name="quiz_finished">ರಸಪ್ರಶ್ನೆ ಪೂರ್ಣಗೊಂಡಿದೆ!</string>
+    <string name="score">ಅಂಕಗಳು: %1$d/%2$d</string>
+    <string name="next">ಮುಂದೆ</string>
+    <string name="finish">ಮುಕ್ತಾಯ</string>
+    <string name="map_title">ಜಿಲ್ಲೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="map_subtitle">ಕರ್ನಾಟಕವನ್ನು ಅನ್ವೇಷಿಸಿ, ಸ್ಥಳೀಯ ವೀರರನ್ನು ಭೇಟಿ ಮಾಡಿ.</string>
+    <string name="nav_map_en">Map</string>
+    <string name="nav_map_kn">ನಕ್ಷೆ</string>
+    <string name="nav_heroes_en">Heroes</string>
+    <string name="nav_heroes_kn">ವೀರರು</string>
+    <string name="nav_badges_en">Badges</string>
+    <string name="nav_badges_kn">ಬ್ಯಾಡ್ಜ್‌ಗಳು</string>
+    <string name="heroes_in_district">%1$s ಜಿಲ್ಲೆಯ ವೀರರು</string>
+    <string name="no_heroes_in_district">ಇಲ್ಲಿ ಇನ್ನೂ ವೀರರ ಕಥೆಗಳಿಲ್ಲ. ಬೇರೆ ಜಿಲ್ಲೆಯನ್ನು ಪ್ರಯತ್ನಿಸಿ!</string>
+    <string name="badge_room_title">ಹೆರಿಟೇಜ್ ಬ್ಯಾಡ್ಜ್ ಕೊಠಡಿ</string>
+    <string name="badge_room_subtitle">ರಸಪ್ರಶ್ನೆಯನ್ನು ಪೂರ್ಣವಾಗಿ ಪೂರೈಸಿ ಬ್ಯಾಡ್ಜ್ ಅನ್‌ಲಾಕ್ ಮಾಡಿ.</string>
+    <string name="badge_unlocked">ಅನ್‌ಲಾಕ್</string>
+    <string name="badge_locked">ಲಾಕ್</string>
+    <string name="narrate">ಓದಿ ಕೇಳಿಸಿ</string>
+    <string name="stop_narration">ನಿಲ್ಲಿಸಿ</string>
+    <string name="statue_finder">Maps ನಲ್ಲಿ ಪ್ರತಿಮೆ ಹುಡುಕಿ</string>
+    <string name="quiz_none_selected">ವೀರರ ಪುಟದಿಂದ ರಸಪ್ರಶ್ನೆಯನ್ನು ಆರಂಭಿಸಿ.</string>
+
+    <string name="default_web_client_id" translatable="false"></string>
+
+    <string name="google_needs_web_client">Firebase ನಲ್ಲಿ ಗೂಗಲ್ ಸೈನ್-ಇನ್ ಸಕ್ರಿಯಗೊಳಿಸಿ, ಆಮೇಲೆ OAuth Web ಕ್ಲೈಂಟ್ ID ಅನ್ನು ಅನುವಾದಿತ ಸ್ಟ್ರಿಂಗ್ನಲ್ಲಿ ಇರಿಸಿ.</string>
+
+    <string name="auth_welcome_title">ನಮ್ಮ-ಕತೆ ಗೆ ಸುಸ್ವಾಗತ</string>
+    <string name="auth_welcome_hint">ಬ್ಯಾಡ್ಜ್ಗಳನ್ನು ಖಾತೆ ಜೊತೆ ಇರಿಸಿ — ಅಥವಾ ಅತಿಥಿಯಾಗಿ ನಕ್ಷೆ ನೋಡಿ.</string>
+    <string name="auth_email_hint">ಮಿಂಚೆ ತೆರೆ ಬರಹ</string>
+    <string name="auth_password_hint">ಗುಪ್ತಪದ</string>
+    <string name="auth_confirm_password">ಗುಪ್ತಪದ ಖಚಿತ</string>
+    <string name="auth_sign_in">ಸೈನ್ ಇನ್</string>
+    <string name="auth_need_account">ಹೊಸರೇ? ಖಾತೆ ಮಾಡಿ</string>
+    <string name="auth_have_account">ಖಾತೆ ಇದೆಯೇ? ಸೈನ್ ಇನ್</string>
+    <string name="auth_forgot_password">ಗುಪ್ತಪಲ ಮರೆತಿರಾ?</string>
+    <string name="auth_reset_send">ಪುನಃಹೊಂದಿಸುವ ಮೈಲು ಕಳುಹಿಸಿ</string>
+    <string name="auth_cancel">ರದ್ದು</string>
+    <string name="auth_google_button">ಗೂಗಲ್ ತೊಟ್ಟು ಸೈನ್ ಇನ್</string>
+    <string name="auth_phone_continue">ಫೋನ್ (OTP)</string>
+    <string name="auth_guest_continue">ಅತಿಥಿ — ಇಗ ನಕ್ಷೆ</string>
+    <string name="auth_mobile_label">ಮೊಬೈಲ್ ಸಂಖ್ಯೆ</string>
+    <string name="auth_phone_hint_instruction">+ನಂತೆ ದೇಶ ಕೋಡೊಡೆ (+91…) ಹತ್ತು ಅಂಕಿ ಸಂಖ್ಯೆ.</string>
+    <string name="auth_send_otp">OTP ಕಳಿಸಿ</string>
+    <string name="auth_otp_hint">ಬಂದ SMSನಲ್ಲಿನ ಅಂಕಿ ಬರೆಯಿರಿ.</string>
+    <string name="auth_otp_digits">OTP ಅಂಕಿ</string>
+    <string name="auth_verify_otp">ಪ್ರಮಾಣಿತಗೊಳಿಸಿ</string>
+    <string name="auth_change_number">ಸಂಖ್ಯೆ ತಪ್ಪೇ?</string>
+    <string name="auth_back">ಹಿಂದೆ</string>
+    <string name="auth_create_account">ಖಾತೆ ಸೃಷ್ಟಿಸಿ</string>
+    <string name="sign_out">ಸೈನ್ ಔಟ್</string>
+</resources>

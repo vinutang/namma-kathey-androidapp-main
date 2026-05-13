@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Frame -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,10 C30,10 18,25 18,45 L18,80 C18,95 30,100 54,100 C78,100 90,95 90,80 L90,45 C90,25 78,10 54,10 Z" />
+
+    <!-- Inner Background -->
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M54,15 C34,15 25,28 25,45 L25,75 C25,88 34,95 54,95 C74,95 83,88 83,75 L83,45 C83,28 74,15 54,15 Z" />
+
+    <!-- Karnataka Map Outline -->
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M40,30 L50,28 L58,35 L60,45 L55,55 L45,58 L40,48 L42,35 Z" />
+
+    <!-- Glowing Light -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:fillAlpha="0.3"
+        android:pathData="M30,25 C54,5 78,25 78,25 L78,65 C78,85 54,105 30,85 Z" />
+
+    <!-- Decorative Stars -->
+    <path android:fillColor="#FFFFFF" android:pathData="M28,20 L30,24 L26,24 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M80,20 L82,24 L78,24 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M54,8 L56,12 L52,12 Z" />
+
+    <!-- Open Book -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M30,75 L54,85 L78,75 L78,65 L54,72 L30,65 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,65 C30,65 44,60 54,65 C64,60 78,65 78,65 L78,75 C78,75 64,70 54,75 C44,70 30,75 30,75 Z" />
+
+    <!-- Hero Figure -->
+    <path android:fillColor="#000000" android:pathData="M52,45 C52,43 54,41 54,41 C54,41 56,43 56,45 L56,65 L52,65 Z" />
+    <path android:fillColor="#000000" android:pathData="M54,40 A3,3 0 1 1 54,34 A3,3 0 1 1 54,40" />
+
+    <!-- Torch -->
+    <path android:fillColor="#795548" android:pathData="M58,45 L62,40 L63,41 L59,46 Z" />
+    <path android:fillColor="#FF9800" android:pathData="M62,40 C62,40 60,35 63,30 C66,35 64,40 64,40 Z" />
+
+    <!-- Text Banner -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M20,95 L88,95 L88,105 L20,105 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,97 L86,97 L86,103 L22,103 Z" />
+
+</vector>

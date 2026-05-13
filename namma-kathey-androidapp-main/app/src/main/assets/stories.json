@@ -1,0 +1,1555 @@
+{
+  "districts": [
+    {
+      "id": "bagalkot",
+      "district_name_en": "Bagalkot",
+      "district_name_kn": "ಬಾಗಲಕೋಟೆ",
+      "hero_name_en": "Basaveshwara",
+      "hero_name_kn": "ಬಸವೇಶ್ವರ",
+      "story_en": "Basaveshwara taught people to live with kindness and equality. He believed everyone should be treated the same. His ideas still inspire people in Karnataka.",
+      "story_kn": "ಬಸವೇಶ್ವರರು ದಯೆ ಮತ್ತು ಸಮಾನತೆಯಿಂದ ಬದುಕುವುದನ್ನು ಬೋಧಿಸಿದರು. ಎಲ್ಲರನ್ನೂ ಸಮಾನವಾಗಿ ನೋಡಬೇಕು ಎಂದು ಅವರು ನಂಬಿದರು. ಅವರ ವಿಚಾರಗಳು ಇಂದಿಗೂ ಜನರಿಗೆ ಪ್ರೇರಣೆಯಾಗಿವೆ.",
+      "statue_lat": 16.1867,
+      "statue_lng": 75.6961,
+      "quiz": [
+        {
+          "question_en": "What did Basaveshwara teach?",
+          "question_kn": "ಬಸವೇಶ್ವರರು ಏನು ಬೋಧಿಸಿದರು?",
+          "options_en": [
+            "Equality",
+            "War",
+            "Magic",
+            "Fishing"
+          ],
+          "options_kn": [
+            "ಸಮಾನತೆ",
+            "ಯುದ್ಧ",
+            "ಮಾಯೆ",
+            "ಮೀನುಗಾರಿಕೆ"
+          ],
+          "answer": "Equality"
+        },
+        {
+          "question_en": "Basaveshwara inspired people through?",
+          "question_kn": "ಬಸವೇಶ್ವರರು ಜನರಿಗೆ ಯಾವ ಮೂಲಕ ಪ್ರೇರಣೆ ನೀಡಿದರು?",
+          "options_en": [
+            "Good ideas",
+            "Games",
+            "Treasure",
+            "Dance"
+          ],
+          "options_kn": [
+            "ಒಳ್ಳೆಯ ವಿಚಾರಗಳು",
+            "ಆಟಗಳು",
+            "ಖಜಾನೆ",
+            "ನೃತ್ಯ"
+          ],
+          "answer": "Good ideas"
+        }
+      ]
+    },
+    {
+      "id": "ballari",
+      "district_name_en": "Ballari",
+      "district_name_kn": "ಬಳ್ಳಾರಿ",
+      "hero_name_en": "Kumara Rama",
+      "hero_name_kn": "ಕುಮಾರರಾಮ",
+      "story_en": "Kumara Rama was a brave warrior known for protecting his land. He fought courageously for his people. Many stories praise his honesty and bravery.",
+      "story_kn": "ಕುಮಾರರಾಮರು ತಮ್ಮ ನಾಡನ್ನು ರಕ್ಷಿಸಿದ ಧೈರ್ಯಶಾಲಿ ಯೋಧರಾಗಿದ್ದರು. ಅವರು ಜನರಿಗಾಗಿ ಸಾಹಸದಿಂದ ಹೋರಾಡಿದರು. ಅವರ ಪ್ರಾಮಾಣಿಕತೆ ಮತ್ತು ಧೈರ್ಯವನ್ನು ಹಲವಾರು ಕಥೆಗಳು ಹೊಗಳುತ್ತವೆ.",
+      "statue_lat": 15.1394,
+      "statue_lng": 76.9214,
+      "quiz": [
+        {
+          "question_en": "Who was Kumara Rama?",
+          "question_kn": "ಕುಮಾರರಾಮರು ಯಾರು?",
+          "options_en": [
+            "Warrior",
+            "Doctor",
+            "Farmer",
+            "Teacher"
+          ],
+          "options_kn": [
+            "ಯೋಧ",
+            "ವೈದ್ಯ",
+            "ರೈತ",
+            "ಶಿಕ್ಷಕ"
+          ],
+          "answer": "Warrior"
+        },
+        {
+          "question_en": "What is Kumara Rama known for?",
+          "question_kn": "ಕುಮಾರರಾಮರು ಯಾವುದಕ್ಕಾಗಿ ಪ್ರಸಿದ್ಧರು?",
+          "options_en": [
+            "Bravery",
+            "Cooking",
+            "Singing",
+            "Painting"
+          ],
+          "options_kn": [
+            "ಧೈರ್ಯ",
+            "ಅಡುಗೆ",
+            "ಹಾಡು",
+            "ಚಿತ್ರಕಲೆ"
+          ],
+          "answer": "Bravery"
+        }
+      ]
+    },
+    {
+      "id": "belagavi",
+      "district_name_en": "Belagavi",
+      "district_name_kn": "ಬೆಳಗಾವಿ",
+      "hero_name_en": "Kittur Rani Chennamma",
+      "hero_name_kn": "ಕಿತ್ತೂರು ರಾಣಿ ಚೆನ್ನಮ್ಮ",
+      "story_en": "Rani Chennamma was a brave queen of Kittur. She fought against the British to protect her kingdom and her people. Children in Karnataka remember her courage and love for freedom.",
+      "story_kn": "ರಾಣಿ ಚೆನ್ನಮ್ಮ ಕಿತ್ತೂರಿನ ಧೈರ್ಯಶಾಲಿ ರಾಣಿ ಆಗಿದ್ದರು. ತಮ್ಮ ರಾಜ್ಯ ಮತ್ತು ಜನರನ್ನು ರಕ್ಷಿಸಲು ಅವರು ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡಿದರು. ಕರ್ನಾಟಕದ ಮಕ್ಕಳು ಅವರ ಧೈರ್ಯ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯದ ಪ್ರೀತಿಯನ್ನು ಇಂದಿಗೂ ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ.",
+      "statue_lat": 15.8167,
+      "statue_lng": 74.8667,
+      "quiz": [
+        {
+          "question_en": "Who was the queen of Kittur?",
+          "question_kn": "ಕಿತ್ತೂರಿನ ರಾಣಿ ಯಾರು?",
+          "options_en": [
+            "Rani Chennamma",
+            "Shivaji",
+            "Tipu Sultan",
+            "Kempegowda"
+          ],
+          "options_kn": [
+            "ರಾಣಿ ಚೆನ್ನಮ್ಮ",
+            "ಶಿವಾಜಿ",
+            "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+            "ಕೆಂಪೇಗೌಡ"
+          ],
+          "answer": "Rani Chennamma"
+        },
+        {
+          "question_en": "Whom did Rani Chennamma fight against?",
+          "question_kn": "ರಾಣಿ ಚೆನ್ನಮ್ಮ ಯಾರ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?",
+          "options_en": [
+            "British",
+            "French",
+            "Portuguese",
+            "Mughals"
+          ],
+          "options_kn": [
+            "ಬ್ರಿಟಿಷರು",
+            "ಫ್ರೆಂಚ್",
+            "ಪೋರ್ಚುಗೀಸ್",
+            "ಮುಗಲರು"
+          ],
+          "answer": "British"
+        }
+      ]
+    },
+    {
+      "id": "bengaluru",
+      "district_name_en": "Bengaluru",
+      "district_name_kn": "ಬೆಂಗಳೂರು",
+      "hero_name_en": "Kempegowda",
+      "hero_name_kn": "ಕೆಂಪೇಗೌಡ",
+      "story_en": "Kempegowda was the founder of Bengaluru city. He built lakes, forts, and markets for the people. Bengaluru grew into a famous city because of his vision.",
+      "story_kn": "ಕೆಂಪೇಗೌಡರು ಬೆಂಗಳೂರಿನ ಸ್ಥಾಪಕರು. ಅವರು ಜನರಿಗಾಗಿ ಕೆರೆಗಳು, ಕೋಟೆಗಳು ಮತ್ತು ಮಾರುಕಟ್ಟೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು. ಅವರ ದೂರದೃಷ್ಟಿಯಿಂದ ಬೆಂಗಳೂರು ಪ್ರಸಿದ್ಧ ನಗರವಾಯಿತು.",
+      "statue_lat": 12.9716,
+      "statue_lng": 77.5946,
+      "quiz": [
+        {
+          "question_en": "Who founded Bengaluru?",
+          "question_kn": "ಬೆಂಗಳೂರು ನಗರವನ್ನು ಯಾರು ಸ್ಥಾಪಿಸಿದರು?",
+          "options_en": [
+            "Kempegowda",
+            "Tipu Sultan",
+            "Rani Chennamma",
+            "Obavva"
+          ],
+          "options_kn": [
+            "ಕೆಂಪೇಗೌಡ",
+            "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+            "ರಾಣಿ ಚೆನ್ನಮ್ಮ",
+            "ಓಬವ್ವ"
+          ],
+          "answer": "Kempegowda"
+        },
+        {
+          "question_en": "What did Kempegowda build for the people?",
+          "question_kn": "ಕೆಂಪೇಗೌಡರು ಜನರಿಗಾಗಿ ಏನು ನಿರ್ಮಿಸಿದರು?",
+          "options_en": [
+            "Lakes and markets",
+            "Airports only",
+            "Factories",
+            "Ships"
+          ],
+          "options_kn": [
+            "ಕೆರೆಗಳು ಮತ್ತು ಮಾರುಕಟ್ಟೆಗಳು",
+            "ವಿಮಾನ ನಿಲ್ದಾಣಗಳು ಮಾತ್ರ",
+            "ಕಾರ್ಖಾನೆಗಳು",
+            "ಹಡಗುಗಳು"
+          ],
+          "answer": "Lakes and markets"
+        }
+      ]
+    },
+    {
+      "id": "bengaluru_rural",
+      "district_name_en": "Bengaluru Rural",
+      "district_name_kn": "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ",
+      "hero_name_en": "Sir M. Visvesvaraya",
+      "hero_name_kn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ",
+      "story_en": "Sir M. Visvesvaraya was a brilliant engineer from Karnataka. He worked hard to improve water systems and farming. His ideas helped many villages and towns grow.",
+      "story_kn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ ಕರ್ನಾಟಕದ ಮಹಾನ್ ಇಂಜಿನಿಯರ್ ಆಗಿದ್ದರು. ಅವರು ನೀರಿನ ವ್ಯವಸ್ಥೆ ಮತ್ತು ಕೃಷಿ ಅಭಿವೃದ್ಧಿಗೆ ಶ್ರಮಿಸಿದರು. ಅವರ ಕಲ್ಪನೆಗಳು ಅನೇಕ ಗ್ರಾಮಗಳು ಮತ್ತು ಪಟ್ಟಣಗಳ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯ ಮಾಡಿತು.",
+      "statue_lat": 13.2841,
+      "statue_lng": 77.537,
+      "quiz": [
+        {
+          "question_en": "Who was Sir M. Visvesvaraya?",
+          "question_kn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ ಯಾರು?",
+          "options_en": [
+            "Engineer",
+            "Singer",
+            "Doctor",
+            "Farmer"
+          ],
+          "options_kn": [
+            "ಇಂಜಿನಿಯರ್",
+            "ಗಾಯಕ",
+            "ವೈದ್ಯ",
+            "ರೈತ"
+          ],
+          "answer": "Engineer"
+        },
+        {
+          "question_en": "What did his ideas improve?",
+          "question_kn": "ಅವರ ಕಲ್ಪನೆಗಳು ಯಾವುದನ್ನು ಸುಧಾರಿಸಿತು?",
+          "options_en": [
+            "Water systems",
+            "Piracy",
+            "Hunting",
+            "Magic"
+          ],
+          "options_kn": [
+            "ನೀರಿನ ವ್ಯವಸ್ಥೆ",
+            "ಕಳ್ಳತನ",
+            "ಬೇಟೆ",
+            "ಮಾಯೆ"
+          ],
+          "answer": "Water systems"
+        }
+      ]
+    },
+    {
+      "id": "bengaluru_urban",
+      "district_name_en": "Bengaluru Urban",
+      "district_name_kn": "ಬೆಂಗಳೂರು ನಗರ",
+      "hero_name_en": "Nadaprabhu Kempegowda",
+      "hero_name_kn": "ನಾಡಪ್ರಭು ಕೆಂಪೇಗೌಡ",
+      "story_en": "Kempegowda founded Bengaluru and planned the city carefully. He built lakes, roads, and markets for the people. Bengaluru became a great city because of his vision.",
+      "story_kn": "ನಾಡಪ್ರಭು ಕೆಂಪೇಗೌಡರು ಬೆಂಗಳೂರನ್ನು ಸ್ಥಾಪಿಸಿ ನಗರವನ್ನು ಜಾಣ್ಮೆಯಿಂದ ಯೋಜಿಸಿದರು. ಅವರು ಜನರಿಗಾಗಿ ಕೆರೆಗಳು, ರಸ್ತೆ ಮತ್ತು ಮಾರುಕಟ್ಟೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು. ಅವರ ದೂರದೃಷ್ಟಿಯಿಂದ ಬೆಂಗಳೂರು ಮಹಾನ್ ನಗರವಾಯಿತು.",
+      "statue_lat": 12.9784,
+      "statue_lng": 77.5916,
+      "quiz": [
+        {
+          "question_en": "Who founded Bengaluru?",
+          "question_kn": "ಬೆಂಗಳೂರು ನಗರವನ್ನು ಯಾರು ಸ್ಥಾಪಿಸಿದರು?",
+          "options_en": [
+            "Kempegowda",
+            "Tipu Sultan",
+            "Krishnadevaraya",
+            "Basavanna"
+          ],
+          "options_kn": [
+            "ಕೆಂಪೇಗೌಡ",
+            "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+            "ಕೃಷ್ಣದೇವರಾಯ",
+            "ಬಸವಣ್ಣ"
+          ],
+          "answer": "Kempegowda"
+        },
+        {
+          "question_en": "What did Kempegowda build?",
+          "question_kn": "ಕೆಂಪೇಗೌಡರು ಏನು ನಿರ್ಮಿಸಿದರು?",
+          "options_en": [
+            "Lakes and markets",
+            "Ships",
+            "Airplanes",
+            "Factories only"
+          ],
+          "options_kn": [
+            "ಕೆರೆಗಳು ಮತ್ತು ಮಾರುಕಟ್ಟೆಗಳು",
+            "ಹಡಗುಗಳು",
+            "ವಿಮಾನಗಳು",
+            "ಕಾರ್ಖಾನೆಗಳು ಮಾತ್ರ"
+          ],
+          "answer": "Lakes and markets"
+        }
+      ]
+    },
+    {
+      "id": "bidar",
+      "district_name_en": "Bidar",
+      "district_name_kn": "ಬೀದರ್",
+      "hero_name_en": "Guru Nanak",
+      "hero_name_kn": "ಗುರು ನಾನಕ್",
+      "story_en": "Guru Nanak visited Bidar and spread messages of peace and kindness. People remember him for helping others and teaching love. His visit made Bidar special.",
+      "story_kn": "ಗುರು ನಾನಕ್ ಬೀದರ್‌ಗೆ ಭೇಟಿ ನೀಡಿ ಶಾಂತಿ ಮತ್ತು ದಯೆಯ ಸಂದೇಶ ಹಂಚಿದರು. ಅವರು ಪ್ರೀತಿ ಮತ್ತು ಸಹಾಯದ ಪಾಠ ಬೋಧಿಸಿದರು. ಅವರ ಭೇಟಿ ಬೀದರ್‌ಗೆ ವಿಶೇಷತೆ ತಂದಿತು.",
+      "statue_lat": 17.9133,
+      "statue_lng": 77.5301,
+      "quiz": [
+        {
+          "question_en": "What did Guru Nanak teach?",
+          "question_kn": "ಗುರು ನಾನಕ್ ಏನು ಬೋಧಿಸಿದರು?",
+          "options_en": [
+            "Peace",
+            "War",
+            "Trading",
+            "Hunting"
+          ],
+          "options_kn": [
+            "ಶಾಂತಿ",
+            "ಯುದ್ಧ",
+            "ವ್ಯಾಪಾರ",
+            "ಬೇಟೆ"
+          ],
+          "answer": "Peace"
+        },
+        {
+          "question_en": "Which district did Guru Nanak visit?",
+          "question_kn": "ಗುರು ನಾನಕ್ ಯಾವ ಜಿಲ್ಲೆಗೆ ಭೇಟಿ ನೀಡಿದರು?",
+          "options_en": [
+            "Bidar",
+            "Mysuru",
+            "Kodagu",
+            "Raichur"
+          ],
+          "options_kn": [
+            "ಬೀದರ್",
+            "ಮೈಸೂರು",
+            "ಕೊಡಗು",
+            "ರಾಯಚೂರು"
+          ],
+          "answer": "Bidar"
+        }
+      ]
+    },
+    {
+      "id": "chamarajanagar",
+      "district_name_en": "Chamarajanagar",
+      "district_name_kn": "ಚಾಮರಾಜನಗರ",
+      "hero_name_en": "Chamaraja Wodeyar",
+      "hero_name_kn": "ಚಾಮರಾಜ ಒಡೆಯರ್",
+      "story_en": "Chamaraja Wodeyar was a kind ruler connected to the Mysuru kingdom. He supported education and development. The district was named after him.",
+      "story_kn": "ಚಾಮರಾಜ ಒಡೆಯರ್ ಮೈಸೂರು ರಾಜ್ಯದ ದಯಾಳು ರಾಜರಾಗಿದ್ದರು. ಅವರು ಶಿಕ್ಷಣ ಮತ್ತು ಅಭಿವೃದ್ಧಿಗೆ ಬೆಂಬಲ ನೀಡಿದರು. ಜಿಲ್ಲೆಯ ಹೆಸರನ್ನು ಅವರ ಹೆಸರಿನಲ್ಲಿ ಇಡಲಾಗಿದೆ.",
+      "statue_lat": 11.9261,
+      "statue_lng": 76.94,
+      "quiz": [
+        {
+          "question_en": "Who was Chamaraja Wodeyar?",
+          "question_kn": "ಚಾಮರಾಜ ಒಡೆಯರ್ ಯಾರು?",
+          "options_en": [
+            "King",
+            "Doctor",
+            "Poet",
+            "Farmer"
+          ],
+          "options_kn": [
+            "ರಾಜ",
+            "ವೈದ್ಯ",
+            "ಕವಿ",
+            "ರೈತ"
+          ],
+          "answer": "King"
+        },
+        {
+          "question_en": "What did he support?",
+          "question_kn": "ಅವರು ಯಾವುದಕ್ಕೆ ಬೆಂಬಲ ನೀಡಿದರು?",
+          "options_en": [
+            "Education",
+            "War",
+            "Hunting",
+            "Magic"
+          ],
+          "options_kn": [
+            "ಶಿಕ್ಷಣ",
+            "ಯುದ್ಧ",
+            "ಬೇಟೆ",
+            "ಮಾಯೆ"
+          ],
+          "answer": "Education"
+        }
+      ]
+    },
+    {
+      "id": "chikkaballapur",
+      "district_name_en": "Chikkaballapur",
+      "district_name_kn": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+      "hero_name_en": "Sir M. Visvesvaraya",
+      "hero_name_kn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ",
+      "story_en": "Sir M. Visvesvaraya was a brilliant engineer from Karnataka. He built dams and helped farmers and cities. Children admire his intelligence and hard work.",
+      "story_kn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ ಕರ್ನಾಟಕದ ಮಹಾನ್ ಇಂಜಿನಿಯರ್ ಆಗಿದ್ದರು. ಅವರು ಅಣೆಕಟ್ಟುಗಳನ್ನು ನಿರ್ಮಿಸಿ ರೈತರು ಮತ್ತು ನಗರಗಳಿಗೆ ಸಹಾಯ ಮಾಡಿದರು. ಮಕ್ಕಳು ಅವರ ಬುದ್ಧಿವಂತಿಕೆ ಮತ್ತು ಪರಿಶ್ರಮವನ್ನು ಮೆಚ್ಚುತ್ತಾರೆ.",
+      "statue_lat": 13.435,
+      "statue_lng": 77.7315,
+      "quiz": [
+        {
+          "question_en": "Who was Sir M. Visvesvaraya?",
+          "question_kn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ ಯಾರು?",
+          "options_en": [
+            "Engineer",
+            "Singer",
+            "Pilot",
+            "Chef"
+          ],
+          "options_kn": [
+            "ಇಂಜಿನಿಯರ್",
+            "ಗಾಯಕ",
+            "ಪೈಲಟ್",
+            "ಅಡುಗೆಗಾರ"
+          ],
+          "answer": "Engineer"
+        },
+        {
+          "question_en": "What did he help build?",
+          "question_kn": "ಅವರು ಏನು ನಿರ್ಮಿಸಲು ಸಹಾಯ ಮಾಡಿದರು?",
+          "options_en": [
+            "Dams",
+            "Ships",
+            "Airplanes",
+            "Submarines"
+          ],
+          "options_kn": [
+            "ಅಣೆಕಟ್ಟುಗಳು",
+            "ಹಡಗುಗಳು",
+            "ವಿಮಾನಗಳು",
+            "ಜಲಾಂತರ್ಗಾಮಿಗಳು"
+          ],
+          "answer": "Dams"
+        }
+      ]
+    },
+    {
+      "id": "chikkamagaluru",
+      "district_name_en": "Chikkamagaluru",
+      "district_name_kn": "ಚಿಕ್ಕಮಗಳೂರು",
+      "hero_name_en": "Rani Chennabhairadevi",
+      "hero_name_kn": "ರಾಣಿ ಚೆನ್ನಭೈರಾದೇವಿ",
+      "story_en": "Rani Chennabhairadevi was a brave queen known as the Pepper Queen. She ruled wisely and protected her kingdom for many years. People admired her courage and leadership.",
+      "story_kn": "ರಾಣಿ ಚೆನ್ನಭೈರಾದೇವಿ ಮೆಣಸಿನ ರಾಣಿ ಎಂದು ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು. ಅವರು ಜಾಣ್ಮೆಯಿಂದ ಆಡಳಿತ ನಡೆಸಿ ತಮ್ಮ ರಾಜ್ಯವನ್ನು ರಕ್ಷಿಸಿದರು. ಜನರು ಅವರ ಧೈರ್ಯ ಮತ್ತು ನಾಯಕತ್ವವನ್ನು ಮೆಚ್ಚುತ್ತಿದ್ದರು.",
+      "statue_lat": 13.3161,
+      "statue_lng": 75.772,
+      "quiz": [
+        {
+          "question_en": "What was Rani Chennabhairadevi called?",
+          "question_kn": "ರಾಣಿ ಚೆನ್ನಭೈರಾದೇವಿಯನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು?",
+          "options_en": [
+            "Pepper Queen",
+            "Tiger Queen",
+            "River Queen",
+            "Forest Queen"
+          ],
+          "options_kn": [
+            "ಮೆಣಸಿನ ರಾಣಿ",
+            "ಹುಲಿ ರಾಣಿ",
+            "ನದಿ ರಾಣಿ",
+            "ಕಾಡು ರಾಣಿ"
+          ],
+          "answer": "Pepper Queen"
+        },
+        {
+          "question_en": "What did people admire about her?",
+          "question_kn": "ಜನರು ಅವರಲ್ಲಿ ಏನನ್ನು ಮೆಚ್ಚುತ್ತಿದ್ದರು?",
+          "options_en": [
+            "Courage",
+            "Magic",
+            "Painting",
+            "Dancing"
+          ],
+          "options_kn": [
+            "ಧೈರ್ಯ",
+            "ಮಾಯೆ",
+            "ಚಿತ್ರಕಲೆ",
+            "ನೃತ್ಯ"
+          ],
+          "answer": "Courage"
+        }
+      ]
+    },
+    {
+      "id": "chitradurga",
+      "district_name_en": "Chitradurga",
+      "district_name_kn": "ಚಿತ್ರದುರ್ಗ",
+      "hero_name_en": "Onake Obavva",
+      "hero_name_kn": "ಒನಕೆ ಓಬವ್ವ",
+      "story_en": "Onake Obavva was a brave woman from Chitradurga Fort. She protected the fort from enemy soldiers using a wooden pestle called an onake. Her bravery inspires many children today.",
+      "story_kn": "ಒನಕೆ ಓಬವ್ವ ಚಿತ್ರದುರ್ಗ ಕೋಟೆಯ ಧೈರ್ಯಶಾಲಿ ಮಹಿಳೆ ಆಗಿದ್ದರು. ಅವರು ಒನಕೆ ಬಳಸಿ ಶತ್ರು ಸೈನಿಕರಿಂದ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಿದರು. ಅವರ ಸಾಹಸ ಇಂದು ಮಕ್ಕಳಿಗೆ ಪ್ರೇರಣೆ ನೀಡುತ್ತದೆ.",
+      "statue_lat": 14.2264,
+      "statue_lng": 76.4,
+      "quiz": [
+        {
+          "question_en": "Which fort did Onake Obavva protect?",
+          "question_kn": "ಒನಕೆ ಓಬವ್ವ ಯಾವ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಿದರು?",
+          "options_en": [
+            "Chitradurga Fort",
+            "Mysore Palace",
+            "Red Fort",
+            "Golconda Fort"
+          ],
+          "options_kn": [
+            "ಚಿತ್ರದುರ್ಗ ಕೋಟೆ",
+            "ಮೈಸೂರು ಅರಮನೆ",
+            "ಕೆಂಪುಕೋಟೆ",
+            "ಗೋಲ್ಕೊಂಡ ಕೋಟೆ"
+          ],
+          "answer": "Chitradurga Fort"
+        },
+        {
+          "question_en": "What did Obavva use to fight?",
+          "question_kn": "ಓಬವ್ವ ಹೋರಾಡಲು ಏನು ಬಳಸಿದರು?",
+          "options_en": [
+            "Onake",
+            "Sword",
+            "Bow",
+            "Shield"
+          ],
+          "options_kn": [
+            "ಒನಕೆ",
+            "ಕತ್ತಿ",
+            "ಬಿಲ್ಲು",
+            "ಗುರಾಣಿ"
+          ],
+          "answer": "Onake"
+        }
+      ]
+    },
+    {
+      "id": "dakshina_kannada",
+      "district_name_en": "Dakshina Kannada",
+      "district_name_kn": "ದಕ್ಷಿಣ ಕನ್ನಡ",
+      "hero_name_en": "Rani Abbakka",
+      "hero_name_kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ",
+      "story_en": "Rani Abbakka was the fearless queen of Ullal. She fought against the Portuguese to protect her land and people. She is remembered as one of Karnataka’s great women warriors.",
+      "story_kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಉಳ್ಳಾಲದ ನಿರ್ಭಯ ರಾಣಿ ಆಗಿದ್ದರು. ತಮ್ಮ ನಾಡು ಮತ್ತು ಜನರನ್ನು ರಕ್ಷಿಸಲು ಅವರು ಪೋರ್ಚುಗೀಸ್ ವಿರುದ್ಧ ಹೋರಾಡಿದರು. ಕರ್ನಾಟಕದ ಮಹಾನ್ ಮಹಿಳಾ ಯೋಧರಲ್ಲೊಬ್ಬರಾಗಿ ಅವರನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಲಾಗುತ್ತದೆ.",
+      "statue_lat": 12.87,
+      "statue_lng": 74.842,
+      "quiz": [
+        {
+          "question_en": "Which queen fought the Portuguese?",
+          "question_kn": "ಯಾವ ರಾಣಿ ಪೋರ್ಚುಗೀಸ್ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?",
+          "options_en": [
+            "Rani Abbakka",
+            "Rani Lakshmi Bai",
+            "Obavva",
+            "Chennamma"
+          ],
+          "options_kn": [
+            "ರಾಣಿ ಅಬ್ಬಕ್ಕ",
+            "ರಾಣಿ ಲಕ್ಷ್ಮೀಬಾಯಿ",
+            "ಓಬವ್ವ",
+            "ಚೆನ್ನಮ್ಮ"
+          ],
+          "answer": "Rani Abbakka"
+        },
+        {
+          "question_en": "Where was Rani Abbakka queen of?",
+          "question_kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಯಾವ ಸ್ಥಳದ ರಾಣಿ ಆಗಿದ್ದರು?",
+          "options_en": [
+            "Ullal",
+            "Mysuru",
+            "Delhi",
+            "Badami"
+          ],
+          "options_kn": [
+            "ಉಳ್ಳಾಲ",
+            "ಮೈಸೂರು",
+            "ದೆಹಲಿ",
+            "ಬಾದಾಮಿ"
+          ],
+          "answer": "Ullal"
+        }
+      ]
+    },
+    {
+      "id": "davanagere",
+      "district_name_en": "Davanagere",
+      "district_name_kn": "ದಾವಣಗೆರೆ",
+      "hero_name_en": "Kanaka Dasa",
+      "hero_name_kn": "ಕನಕದಾಸ",
+      "story_en": "Kanaka Dasa was a great poet and singer from Karnataka. He spread messages of kindness and devotion through songs. His poems are loved by children and elders.",
+      "story_kn": "ಕನಕದಾಸರು ಕರ್ನಾಟಕದ ಮಹಾನ್ ಕವಿ ಮತ್ತು ಗಾಯಕರು. ಅವರು ಹಾಡುಗಳ ಮೂಲಕ ಭಕ್ತಿ ಮತ್ತು ದಯೆಯ ಸಂದೇಶ ಹಂಚಿದರು. ಅವರ ಕವನಗಳನ್ನು ಮಕ್ಕಳು ಮತ್ತು ಹಿರಿಯರು ಇಷ್ಟಪಡುತ್ತಾರೆ.",
+      "statue_lat": 14.4644,
+      "statue_lng": 75.9218,
+      "quiz": [
+        {
+          "question_en": "Who was Kanaka Dasa?",
+          "question_kn": "ಕನಕದಾಸರು ಯಾರು?",
+          "options_en": [
+            "Poet",
+            "Pilot",
+            "Farmer",
+            "Doctor"
+          ],
+          "options_kn": [
+            "ಕವಿ",
+            "ಪೈಲಟ್",
+            "ರೈತ",
+            "ವೈದ್ಯ"
+          ],
+          "answer": "Poet"
+        },
+        {
+          "question_en": "What did Kanaka Dasa spread through songs?",
+          "question_kn": "ಕನಕದಾಸರು ಹಾಡುಗಳ ಮೂಲಕ ಏನು ಹಂಚಿದರು?",
+          "options_en": [
+            "Kindness",
+            "Fear",
+            "Anger",
+            "Treasure"
+          ],
+          "options_kn": [
+            "ದಯೆ",
+            "ಭಯ",
+            "ಕೋಪ",
+            "ಖಜಾನೆ"
+          ],
+          "answer": "Kindness"
+        }
+      ]
+    },
+    {
+      "id": "dharwad",
+      "district_name_en": "Dharwad",
+      "district_name_kn": "ಧಾರವಾಡ",
+      "hero_name_en": "Pandit Bhimsen Joshi",
+      "hero_name_kn": "ಪಂಡಿತ ಭೀಮಸೇನ್ ಜೋಶಿ",
+      "story_en": "Pandit Bhimsen Joshi was a famous singer from Karnataka. His beautiful classical songs touched many hearts. He brought pride to Karnataka through music.",
+      "story_kn": "ಪಂಡಿತ ಭೀಮಸೇನ್ ಜೋಶಿ ಕರ್ನಾಟಕದ ಪ್ರಸಿದ್ಧ ಗಾಯಕರು. ಅವರ ಸುಂದರ ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ ಅನೇಕ ಜನರ ಮನ ಗೆದ್ದಿತು. ಸಂಗೀತದ ಮೂಲಕ ಅವರು ಕರ್ನಾಟಕಕ್ಕೆ ಹೆಮ್ಮೆ ತಂದರು.",
+      "statue_lat": 15.4589,
+      "statue_lng": 75.0078,
+      "quiz": [
+        {
+          "question_en": "What was Bhimsen Joshi famous for?",
+          "question_kn": "ಭೀಮಸೇನ್ ಜೋಶಿ ಯಾವುದಕ್ಕಾಗಿ ಪ್ರಸಿದ್ಧರು?",
+          "options_en": [
+            "Singing",
+            "Cricket",
+            "Driving",
+            "Painting"
+          ],
+          "options_kn": [
+            "ಹಾಡು",
+            "ಕ್ರಿಕೆಟ್",
+            "ಚಾಲನೆ",
+            "ಚಿತ್ರಕಲೆ"
+          ],
+          "answer": "Singing"
+        },
+        {
+          "question_en": "What type of music did he sing?",
+          "question_kn": "ಅವರು ಯಾವ ರೀತಿಯ ಸಂಗೀತ ಹಾಡುತ್ತಿದ್ದರು?",
+          "options_en": [
+            "Classical",
+            "Rock",
+            "Rap",
+            "Pop"
+          ],
+          "options_kn": [
+            "ಶಾಸ್ತ್ರೀಯ",
+            "ರಾಕ್",
+            "ರ್ಯಾಪ್",
+            "ಪಾಪ್"
+          ],
+          "answer": "Classical"
+        }
+      ]
+    },
+    {
+      "id": "gadag",
+      "district_name_en": "Gadag",
+      "district_name_kn": "ಗದಗ",
+      "hero_name_en": "Kumaravyasa",
+      "hero_name_kn": "ಕುಮಾರವ್ಯಾಸ",
+      "story_en": "Kumaravyasa was a famous Kannada poet. He wrote stories from the Mahabharata in simple Kannada language. His writings made learning enjoyable for many people.",
+      "story_kn": "ಕುಮಾರವ್ಯಾಸರು ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ ಆಗಿದ್ದರು. ಅವರು ಮಹಾಭಾರತದ ಕಥೆಗಳನ್ನು ಸರಳ ಕನ್ನಡದಲ್ಲಿ ಬರೆದರು. ಅವರ ಬರಹಗಳು ಜನರಿಗೆ ಕಲಿಕೆಯನ್ನು ಸುಲಭಗೊಳಿಸಿತು.",
+      "statue_lat": 15.4315,
+      "statue_lng": 75.6353,
+      "quiz": [
+        {
+          "question_en": "Who was Kumaravyasa?",
+          "question_kn": "ಕುಮಾರವ್ಯಾಸರು ಯಾರು?",
+          "options_en": [
+            "Poet",
+            "King",
+            "Soldier",
+            "Farmer"
+          ],
+          "options_kn": [
+            "ಕವಿ",
+            "ರಾಜ",
+            "ಸೈನಿಕ",
+            "ರೈತ"
+          ],
+          "answer": "Poet"
+        },
+        {
+          "question_en": "Which epic did Kumaravyasa write about?",
+          "question_kn": "ಕುಮಾರವ್ಯಾಸರು ಯಾವ ಮಹಾಕಾವ್ಯದ ಬಗ್ಗೆ ಬರೆದರು?",
+          "options_en": [
+            "Mahabharata",
+            "Ramayana",
+            "Bhagavad Gita",
+            "Panchatantra"
+          ],
+          "options_kn": [
+            "ಮಹಾಭಾರತ",
+            "ರಾಮಾಯಣ",
+            "ಭಗವದ್ಗೀತೆ",
+            "ಪಂಚತಂತ್ರ"
+          ],
+          "answer": "Mahabharata"
+        }
+      ]
+    },
+    {
+      "id": "hassan",
+      "district_name_en": "Hassan",
+      "district_name_kn": "ಹಾಸನ",
+      "hero_name_en": "Hoysala King Vishnuvardhana",
+      "hero_name_kn": "ಹೊಯ್ಸಳ ರಾಜ ವಿಷ್ಣುವರ್ಧನ",
+      "story_en": "King Vishnuvardhana was a powerful Hoysala ruler. He built beautiful temples that are admired even today. His kingdom became famous for art and architecture.",
+      "story_kn": "ರಾಜ ವಿಷ್ಣುವರ್ಧನರು ಶಕ್ತಿಶಾಲಿ ಹೊಯ್ಸಳ ರಾಜರಾಗಿದ್ದರು. ಅವರು ಸುಂದರ ದೇವಾಲಯಗಳನ್ನು ನಿರ್ಮಿಸಿದರು. ಅವರ ರಾಜ್ಯ ಕಲೆ ಮತ್ತು ವಾಸ್ತುಶಿಲ್ಪಕ್ಕೆ ಪ್ರಸಿದ್ಧವಾಯಿತು.",
+      "statue_lat": 13.0072,
+      "statue_lng": 76.0993,
+      "quiz": [
+        {
+          "question_en": "Which dynasty did Vishnuvardhana belong to?",
+          "question_kn": "ವಿಷ್ಣುವರ್ಧನರು ಯಾವ ವಂಶಕ್ಕೆ ಸೇರಿದವರು?",
+          "options_en": [
+            "Hoysala",
+            "Chola",
+            "Mughal",
+            "Maurya"
+          ],
+          "options_kn": [
+            "ಹೊಯ್ಸಳ",
+            "ಚೋಳ",
+            "ಮುಗಲ್",
+            "ಮೌರ್ಯ"
+          ],
+          "answer": "Hoysala"
+        },
+        {
+          "question_en": "What is he famous for building?",
+          "question_kn": "ಅವರು ಏನು ನಿರ್ಮಿಸಿದಕ್ಕಾಗಿ ಪ್ರಸಿದ್ಧರು?",
+          "options_en": [
+            "Temples",
+            "Airports",
+            "Bridges",
+            "Ships"
+          ],
+          "options_kn": [
+            "ದೇವಾಲಯಗಳು",
+            "ವಿಮಾನ ನಿಲ್ದಾಣಗಳು",
+            "ಸೇತುವೆಗಳು",
+            "ಹಡಗುಗಳು"
+          ],
+          "answer": "Temples"
+        }
+      ]
+    },
+    {
+      "id": "haveri",
+      "district_name_en": "Haveri",
+      "district_name_kn": "ಹಾವೇರಿ",
+      "hero_name_en": "Sarvajna",
+      "hero_name_kn": "ಸರ್ವಜ್ಞ",
+      "story_en": "Sarvajna was a wise Kannada poet known for his simple tripadi poems. He taught good values through short and meaningful lines. People still read his poems today.",
+      "story_kn": "ಸರ್ವಜ್ಞರು ಸರಳ ತ್ರಿಪದಿ ಕವನಗಳಿಗೆ ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ ಆಗಿದ್ದರು. ಅವರು ಚಿಕ್ಕ ಸಾಲುಗಳ ಮೂಲಕ ಒಳ್ಳೆಯ ಮೌಲ್ಯಗಳನ್ನು ಬೋಧಿಸಿದರು. ಜನರು ಇಂದಿಗೂ ಅವರ ಕವನಗಳನ್ನು ಓದುತ್ತಾರೆ.",
+      "statue_lat": 14.7937,
+      "statue_lng": 75.4041,
+      "quiz": [
+        {
+          "question_en": "What type of poems did Sarvajna write?",
+          "question_kn": "ಸರ್ವಜ್ಞರು ಯಾವ ರೀತಿಯ ಕವನಗಳನ್ನು ಬರೆದರು?",
+          "options_en": [
+            "Tripadi",
+            "Rap",
+            "Drama",
+            "Stories"
+          ],
+          "options_kn": [
+            "ತ್ರಿಪದಿ",
+            "ರ್ಯಾಪ್",
+            "ನಾಟಕ",
+            "ಕಥೆಗಳು"
+          ],
+          "answer": "Tripadi"
+        },
+        {
+          "question_en": "What did Sarvajna teach?",
+          "question_kn": "ಸರ್ವಜ್ಞರು ಏನು ಬೋಧಿಸಿದರು?",
+          "options_en": [
+            "Good values",
+            "Fighting",
+            "Trading",
+            "Cooking"
+          ],
+          "options_kn": [
+            "ಒಳ್ಳೆಯ ಮೌಲ್ಯಗಳು",
+            "ಹೋರಾಟ",
+            "ವ್ಯಾಪಾರ",
+            "ಅಡುಗೆ"
+          ],
+          "answer": "Good values"
+        }
+      ]
+    },
+    {
+      "id": "kalaburagi",
+      "district_name_en": "Kalaburagi",
+      "district_name_kn": "ಕಲಬುರಗಿ",
+      "hero_name_en": "Sharana Basavanna",
+      "hero_name_kn": "ಶರಣ ಬಸವಣ್ಣ",
+      "story_en": "Sharana Basavanna spread the message of equality and kindness. He encouraged people to work honestly and help others. His teachings inspired many families in Karnataka.",
+      "story_kn": "ಶರಣ ಬಸವಣ್ಣರು ಸಮಾನತೆ ಮತ್ತು ದಯೆಯ ಸಂದೇಶವನ್ನು ಹರಡಿದರು. ಅವರು ಪ್ರಾಮಾಣಿಕವಾಗಿ ಕೆಲಸ ಮಾಡಿ ಇತರರಿಗೆ ಸಹಾಯ ಮಾಡಲು ಹೇಳಿದರು. ಅವರ ಉಪದೇಶಗಳು ಕರ್ನಾಟಕದ ಅನೇಕ ಜನರಿಗೆ ಪ್ರೇರಣೆಯಾದವು.",
+      "statue_lat": 17.3297,
+      "statue_lng": 76.8343,
+      "quiz": [
+        {
+          "question_en": "What did Basavanna teach people?",
+          "question_kn": "ಬಸವಣ್ಣರು ಜನರಿಗೆ ಏನು ಬೋಧಿಸಿದರು?",
+          "options_en": [
+            "Equality",
+            "War",
+            "Hunting",
+            "Trading"
+          ],
+          "options_kn": [
+            "ಸಮಾನತೆ",
+            "ಯುದ್ಧ",
+            "ಬೇಟೆ",
+            "ವ್ಯಾಪಾರ"
+          ],
+          "answer": "Equality"
+        },
+        {
+          "question_en": "What kind of work did Basavanna encourage?",
+          "question_kn": "ಬಸವಣ್ಣರು ಯಾವ ರೀತಿಯ ಕೆಲಸವನ್ನು ಉತ್ತೇಜಿಸಿದರು?",
+          "options_en": [
+            "Honest work",
+            "Lazy work",
+            "Magic",
+            "Fighting"
+          ],
+          "options_kn": [
+            "ಪ್ರಾಮಾಣಿಕ ಕೆಲಸ",
+            "ಸೋಮಾರಿ ಕೆಲಸ",
+            "ಮಾಯೆ",
+            "ಹೋರಾಟ"
+          ],
+          "answer": "Honest work"
+        }
+      ]
+    },
+    {
+      "id": "kodagu",
+      "district_name_en": "Kodagu",
+      "district_name_kn": "ಕೊಡಗು",
+      "hero_name_en": "Field Marshal K. M. Cariappa",
+      "hero_name_kn": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಕೆ. ಎಂ. ಕಾರಿಯಪ್ಪ",
+      "story_en": "K. M. Cariappa was the first Commander-in-Chief of the Indian Army. He was born in Kodagu and served the country with great pride. Children admire his discipline and bravery.",
+      "story_kn": "ಕೆ. ಎಂ. ಕಾರಿಯಪ್ಪ ಭಾರತೀಯ ಸೇನೆಯ ಮೊದಲ ಕಮಾಂಡರ್-ಇನ್-ಚೀಫ್ ಆಗಿದ್ದರು. ಅವರು ಕೊಡಗಿನಲ್ಲಿ ಜನಿಸಿ ದೇಶಕ್ಕೆ ಹೆಮ್ಮೆಯಿಂದ ಸೇವೆ ಸಲ್ಲಿಸಿದರು. ಮಕ್ಕಳು ಅವರ ಶಿಸ್ತು ಮತ್ತು ಧೈರ್ಯವನ್ನು ಮೆಚ್ಚುತ್ತಾರೆ.",
+      "statue_lat": 12.4244,
+      "statue_lng": 75.7382,
+      "quiz": [
+        {
+          "question_en": "Who was K. M. Cariappa?",
+          "question_kn": "ಕೆ. ಎಂ. ಕಾರಿಯಪ್ಪ ಯಾರು?",
+          "options_en": [
+            "Army leader",
+            "Singer",
+            "Poet",
+            "Scientist"
+          ],
+          "options_kn": [
+            "ಸೇನೆ ನಾಯಕ",
+            "ಗಾಯಕ",
+            "ಕವಿ",
+            "ವಿಜ್ಞಾನಿ"
+          ],
+          "answer": "Army leader"
+        },
+        {
+          "question_en": "Which district was Cariappa from?",
+          "question_kn": "ಕಾರಿಯಪ್ಪ ಯಾವ ಜಿಲ್ಲೆಯವರು?",
+          "options_en": [
+            "Kodagu",
+            "Mandya",
+            "Raichur",
+            "Tumakuru"
+          ],
+          "options_kn": [
+            "ಕೊಡಗು",
+            "ಮಂಡ್ಯ",
+            "ರಾಯಚೂರು",
+            "ತುಮಕೂರು"
+          ],
+          "answer": "Kodagu"
+        }
+      ]
+    },
+    {
+      "id": "kolar",
+      "district_name_en": "Kolar",
+      "district_name_kn": "ಕೋಲಾರ",
+      "hero_name_en": "Sri Krishnadevaraya",
+      "hero_name_kn": "ಶ್ರೀ ಕೃಷ್ಣದೇವರಾಯ",
+      "story_en": "Sri Krishnadevaraya was one of the greatest kings of South India. He supported poets, temples, and learning. His rule is remembered as a golden age.",
+      "story_kn": "ಶ್ರೀ ಕೃಷ್ಣದೇವರಾಯರು ದಕ್ಷಿಣ ಭಾರತದ ಮಹಾನ್ ರಾಜರಲ್ಲಿ ಒಬ್ಬರು. ಅವರು ಕವಿಗಳು, ದೇವಾಲಯಗಳು ಮತ್ತು ಶಿಕ್ಷಣಕ್ಕೆ ಬೆಂಬಲ ನೀಡಿದರು. ಅವರ ಆಡಳಿತವನ್ನು ಸುವರ್ಣಯುಗವೆಂದು ನೆನಪಿಸಲಾಗುತ್ತದೆ.",
+      "statue_lat": 13.1367,
+      "statue_lng": 78.1299,
+      "quiz": [
+        {
+          "question_en": "What did Krishnadevaraya support?",
+          "question_kn": "ಕೃಷ್ಣದೇವರಾಯರು ಯಾವುದಕ್ಕೆ ಬೆಂಬಲ ನೀಡಿದರು?",
+          "options_en": [
+            "Learning",
+            "Piracy",
+            "Fighting",
+            "Fishing"
+          ],
+          "options_kn": [
+            "ಶಿಕ್ಷಣ",
+            "ಕಳ್ಳತನ",
+            "ಹೋರಾಟ",
+            "ಮೀನುಗಾರಿಕೆ"
+          ],
+          "answer": "Learning"
+        },
+        {
+          "question_en": "How is his rule remembered?",
+          "question_kn": "ಅವರ ಆಡಳಿತವನ್ನು ಹೇಗೆ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+          "options_en": [
+            "Golden age",
+            "Dark age",
+            "Rainy age",
+            "Stone age"
+          ],
+          "options_kn": [
+            "ಸುವರ್ಣಯುಗ",
+            "ಕತ್ತಲೆಯುಗ",
+            "ಮಳೆಯುಗ",
+            "ಶಿಲಾಯುಗ"
+          ],
+          "answer": "Golden age"
+        }
+      ]
+    },
+    {
+      "id": "koppal",
+      "district_name_en": "Koppal",
+      "district_name_kn": "ಕೊಪ್ಪಳ",
+      "hero_name_en": "Rani Abbakka",
+      "hero_name_kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ",
+      "story_en": "Rani Abbakka was a fearless queen who protected her land from invaders. She inspired people with her courage and leadership. Her story is loved across Karnataka.",
+      "story_kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ತಮ್ಮ ನಾಡನ್ನು ಆಕ್ರಮಣಕಾರರಿಂದ ರಕ್ಷಿಸಿದ ಧೈರ್ಯಶಾಲಿ ರಾಣಿ ಆಗಿದ್ದರು. ಅವರ ಸಾಹಸ ಮತ್ತು ನಾಯಕತ್ವ ಜನರಿಗೆ ಪ್ರೇರಣೆಯಾಯಿತು. ಅವರ ಕಥೆ ಕರ್ನಾಟಕದಾದ್ಯಂತ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "statue_lat": 15.345,
+      "statue_lng": 76.1548,
+      "quiz": [
+        {
+          "question_en": "Who was Rani Abbakka?",
+          "question_kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಯಾರು?",
+          "options_en": [
+            "Queen",
+            "Teacher",
+            "Pilot",
+            "Doctor"
+          ],
+          "options_kn": [
+            "ರಾಣಿ",
+            "ಶಿಕ್ಷಕಿ",
+            "ಪೈಲಟ್",
+            "ವೈದ್ಯ"
+          ],
+          "answer": "Queen"
+        },
+        {
+          "question_en": "What is Rani Abbakka known for?",
+          "question_kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಯಾವುದಕ್ಕಾಗಿ ಪ್ರಸಿದ್ಧರು?",
+          "options_en": [
+            "Bravery",
+            "Cooking",
+            "Painting",
+            "Farming"
+          ],
+          "options_kn": [
+            "ಧೈರ್ಯ",
+            "ಅಡುಗೆ",
+            "ಚಿತ್ರಕಲೆ",
+            "ಕೃಷಿ"
+          ],
+          "answer": "Bravery"
+        }
+      ]
+    },
+    {
+      "id": "mandya",
+      "district_name_en": "Mandya",
+      "district_name_kn": "ಮಂಡ್ಯ",
+      "hero_name_en": "Sir M. Visvesvaraya",
+      "hero_name_kn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ",
+      "story_en": "Sir M. Visvesvaraya helped build the Krishnaraja Sagar Dam near Mandya. His engineering ideas helped farmers get water for crops. Karnataka celebrates his birthday as Engineers' Day.",
+      "story_kn": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ ಮಂಡ್ಯದ ಸಮೀಪದ ಕೃಷ್ಣರಾಜ ಸಾಗರ ಅಣೆಕಟ್ಟಿನ ನಿರ್ಮಾಣಕ್ಕೆ ಸಹಾಯ ಮಾಡಿದರು. ಅವರ ಇಂಜಿನಿಯರಿಂಗ್ ಕಲ್ಪನೆಗಳು ರೈತರಿಗೆ ನೀರು ಒದಗಿಸಿತು. ಕರ್ನಾಟಕದಲ್ಲಿ ಅವರ ಹುಟ್ಟುಹಬ್ಬವನ್ನು ಇಂಜಿನಿಯರ್ಸ್ ಡೇ ಆಗಿ ಆಚರಿಸಲಾಗುತ್ತದೆ.",
+      "statue_lat": 12.5247,
+      "statue_lng": 76.8958,
+      "quiz": [
+        {
+          "question_en": "Which dam did Visvesvaraya help build?",
+          "question_kn": "ವಿಶ್ವೇಶ್ವರಯ್ಯರು ಯಾವ ಅಣೆಕಟ್ಟನ್ನು ನಿರ್ಮಿಸಲು ಸಹಾಯ ಮಾಡಿದರು?",
+          "options_en": [
+            "KRS Dam",
+            "Almatti Dam",
+            "Tungabhadra Dam",
+            "Kabini Dam"
+          ],
+          "options_kn": [
+            "ಕೆಆರ್‌ಎಸ್ ಅಣೆಕಟ್ಟು",
+            "ಅಲ್ಮಟ್ಟಿ ಅಣೆಕಟ್ಟು",
+            "ತುಂಗಭದ್ರಾ ಅಣೆಕಟ್ಟು",
+            "ಕಬಿನಿ ಅಣೆಕಟ್ಟು"
+          ],
+          "answer": "KRS Dam"
+        },
+        {
+          "question_en": "What is celebrated on his birthday?",
+          "question_kn": "ಅವರ ಹುಟ್ಟುಹಬ್ಬದಂದು ಏನು ಆಚರಿಸಲಾಗುತ್ತದೆ?",
+          "options_en": [
+            "Engineers' Day",
+            "Sports Day",
+            "Farmers' Day",
+            "Science Day"
+          ],
+          "options_kn": [
+            "ಇಂಜಿನಿಯರ್ಸ್ ಡೇ",
+            "ಕ್ರೀಡಾ ದಿನ",
+            "ರೈತರ ದಿನ",
+            "ವಿಜ್ಞಾನ ದಿನ"
+          ],
+          "answer": "Engineers' Day"
+        }
+      ]
+    },
+    {
+      "id": "mysuru",
+      "district_name_en": "Mysuru",
+      "district_name_kn": "ಮೈಸೂರು",
+      "hero_name_en": "Tipu Sultan",
+      "hero_name_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+      "story_en": "Tipu Sultan was a brave ruler of Mysuru. He fought to protect his kingdom from enemies and was known as the Tiger of Mysore. He also supported science and new technology.",
+      "story_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಮೈಸೂರಿನ ಧೈರ್ಯಶಾಲಿ ಆಡಳಿತಗಾರರಾಗಿದ್ದರು. ಅವರು ತಮ್ಮ ರಾಜ್ಯವನ್ನು ರಕ್ಷಿಸಲು ಶತ್ರುಗಳ ವಿರುದ್ಧ ಹೋರಾಡಿದರು ಮತ್ತು ಮೈಸೂರಿನ ಹುಲಿ ಎಂದು ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು. ಅವರು ವಿಜ್ಞಾನ ಮತ್ತು ಹೊಸ ತಂತ್ರಜ್ಞಾನಕ್ಕೂ ಬೆಂಬಲ ನೀಡಿದರು.",
+      "statue_lat": 12.3051,
+      "statue_lng": 76.6551,
+      "quiz": [
+        {
+          "question_en": "What was Tipu Sultan called?",
+          "question_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಅವರನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು?",
+          "options_en": [
+            "Tiger of Mysore",
+            "Lion of Delhi",
+            "King of Bengal",
+            "Hero of Kittur"
+          ],
+          "options_kn": [
+            "ಮೈಸೂರಿನ ಹುಲಿ",
+            "ದೆಹಲಿಯ ಸಿಂಹ",
+            "ಬೆಂಗಾಲಿನ ರಾಜ",
+            "ಕಿತ್ತೂರಿನ ವೀರ"
+          ],
+          "answer": "Tiger of Mysore"
+        },
+        {
+          "question_en": "Which kingdom did Tipu Sultan rule?",
+          "question_kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಯಾವ ರಾಜ್ಯವನ್ನು ಆಡಳಿತ ನಡೆಸಿದರು?",
+          "options_en": [
+            "Mysuru",
+            "Kittur",
+            "Delhi",
+            "Bijapur"
+          ],
+          "options_kn": [
+            "ಮೈಸೂರು",
+            "ಕಿತ್ತೂರು",
+            "ದೆಹಲಿ",
+            "ಬೀಜಾಪುರ"
+          ],
+          "answer": "Mysuru"
+        }
+      ]
+    },
+    {
+      "id": "raichur",
+      "district_name_en": "Raichur",
+      "district_name_kn": "ರಾಯಚೂರು",
+      "hero_name_en": "Raja Venkatappa Nayaka",
+      "hero_name_kn": "ರಾಜ ವೆಂಕಟಪ್ಪ ನಾಯಕ",
+      "story_en": "Raja Venkatappa Nayaka was known for protecting his people and kingdom. He encouraged courage and justice in his rule. His leadership is remembered with pride.",
+      "story_kn": "ರಾಜ ವೆಂಕಟಪ್ಪ ನಾಯಕರು ತಮ್ಮ ಜನರು ಮತ್ತು ರಾಜ್ಯವನ್ನು ರಕ್ಷಿಸಿದವರಾಗಿ ಪ್ರಸಿದ್ಧರು. ಅವರು ಧೈರ್ಯ ಮತ್ತು ನ್ಯಾಯವನ್ನು ಉತ್ತೇಜಿಸಿದರು. ಅವರ ನಾಯಕತ್ವವನ್ನು ಹೆಮ್ಮೆಯಿಂದ ನೆನಪಿಸಲಾಗುತ್ತದೆ.",
+      "statue_lat": 16.212,
+      "statue_lng": 77.3439,
+      "quiz": [
+        {
+          "question_en": "What did Raja Venkatappa Nayaka protect?",
+          "question_kn": "ರಾಜ ವೆಂಕಟಪ್ಪ ನಾಯಕರು ಏನನ್ನು ರಕ್ಷಿಸಿದರು?",
+          "options_en": [
+            "People and kingdom",
+            "Treasure only",
+            "Forests only",
+            "Animals only"
+          ],
+          "options_kn": [
+            "ಜನರು ಮತ್ತು ರಾಜ್ಯ",
+            "ಖಜಾನೆ ಮಾತ್ರ",
+            "ಕಾಡು ಮಾತ್ರ",
+            "ಪ್ರಾಣಿಗಳು ಮಾತ್ರ"
+          ],
+          "answer": "People and kingdom"
+        },
+        {
+          "question_en": "What did he encourage?",
+          "question_kn": "ಅವರು ಯಾವುದನ್ನು ಉತ್ತೇಜಿಸಿದರು?",
+          "options_en": [
+            "Justice",
+            "Fear",
+            "Laziness",
+            "Anger"
+          ],
+          "options_kn": [
+            "ನ್ಯಾಯ",
+            "ಭಯ",
+            "ಸೋಮಾರಿತನ",
+            "ಕೋಪ"
+          ],
+          "answer": "Justice"
+        }
+      ]
+    },
+    {
+      "id": "ramanagara",
+      "district_name_en": "Ramanagara",
+      "district_name_kn": "ರಾಮನಗರ",
+      "hero_name_en": "Kempegowda",
+      "hero_name_kn": "ಕೆಂಪೇಗೌಡ",
+      "story_en": "Kempegowda was a wise ruler who helped develop towns and markets around Bengaluru. He cared for farmers and traders. His planning helped many places grow peacefully.",
+      "story_kn": "ಕೆಂಪೇಗೌಡರು ಬೆಂಗಳೂರು ಸುತ್ತಮುತ್ತಲಿನ ಪಟ್ಟಣಗಳು ಮತ್ತು ಮಾರುಕಟ್ಟೆಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದ ಜಾಣ ರಾಜರಾಗಿದ್ದರು. ಅವರು ರೈತರು ಮತ್ತು ವ್ಯಾಪಾರಿಗಳ ಬಗ್ಗೆ ಕಾಳಜಿ ವಹಿಸಿದರು. ಅವರ ಯೋಜನೆಗಳಿಂದ ಅನೇಕ ಪ್ರದೇಶಗಳು ಬೆಳೆಯುವಂತಾಯಿತು.",
+      "statue_lat": 12.7209,
+      "statue_lng": 77.281,
+      "quiz": [
+        {
+          "question_en": "What did Kempegowda help develop?",
+          "question_kn": "ಕೆಂಪೇಗೌಡರು ಯಾವುದನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಲು ಸಹಾಯ ಮಾಡಿದರು?",
+          "options_en": [
+            "Towns and markets",
+            "Ships",
+            "Airports",
+            "Forests"
+          ],
+          "options_kn": [
+            "ಪಟ್ಟಣಗಳು ಮತ್ತು ಮಾರುಕಟ್ಟೆಗಳು",
+            "ಹಡಗುಗಳು",
+            "ವಿಮಾನ ನಿಲ್ದಾಣಗಳು",
+            "ಕಾಡುಗಳು"
+          ],
+          "answer": "Towns and markets"
+        },
+        {
+          "question_en": "Who did Kempegowda care for?",
+          "question_kn": "ಕೆಂಪೇಗೌಡರು ಯಾರ ಬಗ್ಗೆ ಕಾಳಜಿ ವಹಿಸಿದರು?",
+          "options_en": [
+            "Farmers and traders",
+            "Pirates",
+            "Hunters",
+            "Soldiers only"
+          ],
+          "options_kn": [
+            "ರೈತರು ಮತ್ತು ವ್ಯಾಪಾರಿಗಳು",
+            "ಕಳ್ಳರು",
+            "ಬೇಟೆಗಾರರು",
+            "ಸೈನಿಕರು ಮಾತ್ರ"
+          ],
+          "answer": "Farmers and traders"
+        }
+      ]
+    },
+    {
+      "id": "shivamogga",
+      "district_name_en": "Shivamogga",
+      "district_name_kn": "ಶಿವಮೊಗ್ಗ",
+      "hero_name_en": "Keladi Chennamma",
+      "hero_name_kn": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ",
+      "story_en": "Keladi Chennamma was a brave queen who protected her kingdom from enemies. She helped people during difficult times and ruled wisely. Her courage is remembered across Karnataka.",
+      "story_kn": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಧೈರ್ಯಶಾಲಿ ರಾಣಿ ಆಗಿದ್ದು ತಮ್ಮ ರಾಜ್ಯವನ್ನು ಶತ್ರುಗಳಿಂದ ರಕ್ಷಿಸಿದರು. ಕಷ್ಟದ ಸಮಯದಲ್ಲಿ ಜನರಿಗೆ ಸಹಾಯ ಮಾಡಿ ಜಾಣ್ಮೆಯಿಂದ ಆಡಳಿತ ನಡೆಸಿದರು. ಅವರ ಸಾಹಸ ಕರ್ನಾಟಕದಾದ್ಯಂತ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "statue_lat": 13.9299,
+      "statue_lng": 75.5681,
+      "quiz": [
+        {
+          "question_en": "Who was Keladi Chennamma?",
+          "question_kn": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಯಾರು?",
+          "options_en": [
+            "Queen",
+            "Scientist",
+            "Teacher",
+            "Singer"
+          ],
+          "options_kn": [
+            "ರಾಣಿ",
+            "ವಿಜ್ಞಾನಿ",
+            "ಶಿಕ್ಷಕಿ",
+            "ಗಾಯಕಿ"
+          ],
+          "answer": "Queen"
+        },
+        {
+          "question_en": "What is Keladi Chennamma remembered for?",
+          "question_kn": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಯಾವುದಕ್ಕಾಗಿ ನೆನಪಾಗುತ್ತಾರೆ?",
+          "options_en": [
+            "Courage",
+            "Cooking",
+            "Painting",
+            "Trading"
+          ],
+          "options_kn": [
+            "ಧೈರ್ಯ",
+            "ಅಡುಗೆ",
+            "ಚಿತ್ರಕಲೆ",
+            "ವ್ಯಾಪಾರ"
+          ],
+          "answer": "Courage"
+        }
+      ]
+    },
+    {
+      "id": "shivamogga_kuvempu",
+      "district_name_en": "Shivamogga",
+      "district_name_kn": "ಶಿವಮೊಗ್ಗ",
+      "hero_name_en": "Kuvempu",
+      "hero_name_kn": "ಕುವೆಂಪು",
+      "story_en": "Kuvempu was a famous Kannada poet and writer from Shivamogga. He loved nature and taught people to live with kindness and unity. His poems and stories made Kannada literature proud.",
+      "story_kn": "ಕುವೆಂಪು ಶಿವಮೊಗ್ಗದ ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ ಮತ್ತು ಲೇಖಕರಾಗಿದ್ದರು. ಅವರು ಪ್ರಕೃತಿಯನ್ನು ಪ್ರೀತಿಸುತ್ತಿದ್ದರು ಮತ್ತು ದಯೆ ಹಾಗೂ ಏಕತೆಯಿಂದ ಬದುಕಲು ಬೋಧಿಸಿದರು. ಅವರ ಕವನಗಳು ಮತ್ತು ಕಥೆಗಳು ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಹೆಮ್ಮೆ ತಂದವು.",
+      "statue_lat": 13.6999,
+      "statue_lng": 75.2466,
+      "quiz": [
+        {
+          "question_en": "Who was Kuvempu?",
+          "question_kn": "ಕುವೆಂಪು ಯಾರು?",
+          "options_en": [
+            "Poet and writer",
+            "Pilot",
+            "Scientist",
+            "Soldier"
+          ],
+          "options_kn": [
+            "ಕವಿ ಮತ್ತು ಲೇಖಕ",
+            "ಪೈಲಟ್",
+            "ವಿಜ್ಞಾನಿ",
+            "ಸೈನಿಕ"
+          ],
+          "answer": "Poet and writer"
+        },
+        {
+          "question_en": "What did Kuvempu teach people?",
+          "question_kn": "ಕುವೆಂಪು ಜನರಿಗೆ ಏನು ಬೋಧಿಸಿದರು?",
+          "options_en": [
+            "Kindness and unity",
+            "War skills",
+            "Treasure hunting",
+            "Fishing"
+          ],
+          "options_kn": [
+            "ದಯೆ ಮತ್ತು ಏಕತೆ",
+            "ಯುದ್ಧ ಕೌಶಲ್ಯ",
+            "ಖಜಾನೆ ಹುಡುಕುವುದು",
+            "ಮೀನುಗಾರಿಕೆ"
+          ],
+          "answer": "Kindness and unity"
+        }
+      ]
+    },
+    {
+      "id": "tumakuru",
+      "district_name_en": "Tumakuru",
+      "district_name_kn": "ತುಮಕೂರು",
+      "hero_name_en": "Sree Siddaganga Swamiji",
+      "hero_name_kn": "ಶ್ರೀ ಸಿದ್ಧಗಂಗಾ ಸ್ವಾಮೀಜಿ",
+      "story_en": "Sree Siddaganga Swamiji helped poor children get food and education. He believed in kindness and service to society. Many people lovingly called him the walking god.",
+      "story_kn": "ಶ್ರೀ ಸಿದ್ಧಗಂಗಾ ಸ್ವಾಮೀಜಿಗಳು ಬಡ ಮಕ್ಕಳಿಗೆ ಆಹಾರ ಮತ್ತು ಶಿಕ್ಷಣ ನೀಡಲು ಸಹಾಯ ಮಾಡಿದರು. ಅವರು ದಯೆ ಮತ್ತು ಸಮಾಜ ಸೇವೆಯನ್ನು ನಂಬುತ್ತಿದ್ದರು. ಅನೇಕರು ಅವರನ್ನು ನಡೆದಾಡುವ ದೇವರು ಎಂದು ಕರೆಯುತ್ತಿದ್ದರು.",
+      "statue_lat": 13.3409,
+      "statue_lng": 77.101,
+      "quiz": [
+        {
+          "question_en": "What did Siddaganga Swamiji help children get?",
+          "question_kn": "ಸಿದ್ಧಗಂಗಾ ಸ್ವಾಮೀಜಿಗಳು ಮಕ್ಕಳಿಗೆ ಏನು ಒದಗಿಸಲು ಸಹಾಯ ಮಾಡಿದರು?",
+          "options_en": [
+            "Food and education",
+            "Cars",
+            "Jewelry",
+            "Toys only"
+          ],
+          "options_kn": [
+            "ಆಹಾರ ಮತ್ತು ಶಿಕ್ಷಣ",
+            "ಕಾರುಗಳು",
+            "ಆಭರಣಗಳು",
+            "ಆಟಿಕೆಗಳು ಮಾತ್ರ"
+          ],
+          "answer": "Food and education"
+        },
+        {
+          "question_en": "What did people call Siddaganga Swamiji?",
+          "question_kn": "ಜನರು ಸಿದ್ಧಗಂಗಾ ಸ್ವಾಮೀಜಿಗಳನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಿದ್ದರು?",
+          "options_en": [
+            "Walking god",
+            "Tiger king",
+            "Great pilot",
+            "River hero"
+          ],
+          "options_kn": [
+            "ನಡೆಯುವ ದೇವರು",
+            "ಹುಲಿ ರಾಜ",
+            "ಮಹಾನ್ ಪೈಲಟ್",
+            "ನದಿ ವೀರ"
+          ],
+          "answer": "Walking god"
+        }
+      ]
+    },
+    {
+      "id": "udupi",
+      "district_name_en": "Udupi",
+      "district_name_kn": "ಉಡುಪಿ",
+      "hero_name_en": "Madhvacharya",
+      "hero_name_kn": "ಮಧ್ವಾಚಾರ್ಯ",
+      "story_en": "Madhvacharya was a great teacher and philosopher from Udupi. He taught people about devotion and good values. Udupi became famous because of his teachings.",
+      "story_kn": "ಮಧ್ವಾಚಾರ್ಯರು ಉಡುಪಿಯ ಮಹಾನ್ ಗುರು ಮತ್ತು ತತ್ವಜ್ಞಾನಿ ಆಗಿದ್ದರು. ಅವರು ಭಕ್ತಿ ಮತ್ತು ಒಳ್ಳೆಯ ಮೌಲ್ಯಗಳನ್ನು ಬೋಧಿಸಿದರು. ಅವರ ಉಪದೇಶಗಳಿಂದ ಉಡುಪಿ ಪ್ರಸಿದ್ಧವಾಯಿತು.",
+      "statue_lat": 13.3409,
+      "statue_lng": 74.7421,
+      "quiz": [
+        {
+          "question_en": "Who was Madhvacharya?",
+          "question_kn": "ಮಧ್ವಾಚಾರ್ಯರು ಯಾರು?",
+          "options_en": [
+            "Teacher and philosopher",
+            "Pilot",
+            "Farmer",
+            "Doctor"
+          ],
+          "options_kn": [
+            "ಗುರು ಮತ್ತು ತತ್ವಜ್ಞಾನಿ",
+            "ಪೈಲಟ್",
+            "ರೈತ",
+            "ವೈದ್ಯ"
+          ],
+          "answer": "Teacher and philosopher"
+        },
+        {
+          "question_en": "What did Madhvacharya teach?",
+          "question_kn": "ಮಧ್ವಾಚಾರ್ಯರು ಏನು ಬೋಧಿಸಿದರು?",
+          "options_en": [
+            "Devotion and values",
+            "War skills",
+            "Trading",
+            "Fishing"
+          ],
+          "options_kn": [
+            "ಭಕ್ತಿ ಮತ್ತು ಮೌಲ್ಯಗಳು",
+            "ಯುದ್ಧ ಕೌಶಲ್ಯ",
+            "ವ್ಯಾಪಾರ",
+            "ಮೀನುಗಾರಿಕೆ"
+          ],
+          "answer": "Devotion and values"
+        }
+      ]
+    },
+    {
+      "id": "uttara_kannada",
+      "district_name_en": "Uttara Kannada",
+      "district_name_kn": "ಉತ್ತರ ಕನ್ನಡ",
+      "hero_name_en": "Queen Chennabhairadevi",
+      "hero_name_kn": "ರಾಣಿ ಚೆನ್ನಭೈರಾದೇವಿ",
+      "story_en": "Queen Chennabhairadevi ruled the coastal regions wisely for many years. She encouraged trade and protected her kingdom. People remember her as the Pepper Queen.",
+      "story_kn": "ರಾಣಿ ಚೆನ್ನಭೈರಾದೇವಿ ಕರಾವಳಿ ಪ್ರದೇಶಗಳನ್ನು ಹಲವು ವರ್ಷಗಳ ಕಾಲ ಜಾಣ್ಮೆಯಿಂದ ಆಡಳಿತ ನಡೆಸಿದರು. ಅವರು ವ್ಯಾಪಾರವನ್ನು ಉತ್ತೇಜಿಸಿ ತಮ್ಮ ರಾಜ್ಯವನ್ನು ರಕ್ಷಿಸಿದರು. ಜನರು ಅವರನ್ನು ಮೆಣಸಿನ ರಾಣಿ ಎಂದು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತಾರೆ.",
+      "statue_lat": 14.7937,
+      "statue_lng": 74.6869,
+      "quiz": [
+        {
+          "question_en": "What was Queen Chennabhairadevi called?",
+          "question_kn": "ರಾಣಿ ಚೆನ್ನಭೈರಾದೇವಿಯನ್ನು ಏನೆಂದು ಕರೆಯಲಾಗುತ್ತಿತ್ತು?",
+          "options_en": [
+            "Pepper Queen",
+            "Forest Queen",
+            "River Queen",
+            "Tiger Queen"
+          ],
+          "options_kn": [
+            "ಮೆಣಸಿನ ರಾಣಿ",
+            "ಕಾಡಿನ ರಾಣಿ",
+            "ನದಿ ರಾಣಿ",
+            "ಹುಲಿ ರಾಣಿ"
+          ],
+          "answer": "Pepper Queen"
+        },
+        {
+          "question_en": "What did she encourage?",
+          "question_kn": "ಅವರು ಯಾವುದನ್ನು ಉತ್ತೇಜಿಸಿದರು?",
+          "options_en": [
+            "Trade",
+            "Piracy",
+            "War",
+            "Hunting"
+          ],
+          "options_kn": [
+            "ವ್ಯಾಪಾರ",
+            "ಕಳ್ಳತನ",
+            "ಯುದ್ಧ",
+            "ಬೇಟೆ"
+          ],
+          "answer": "Trade"
+        }
+      ]
+    },
+    {
+      "id": "vijayanagara",
+      "district_name_en": "Vijayanagara",
+      "district_name_kn": "ವಿಜಯನಗರ",
+      "hero_name_en": "Sri Krishnadevaraya",
+      "hero_name_kn": "ಶ್ರೀ ಕೃಷ್ಣದೇವರಾಯ",
+      "story_en": "Sri Krishnadevaraya was a famous emperor of the Vijayanagara Empire. He supported art, culture, and education. His kingdom became one of the strongest in South India.",
+      "story_kn": "ಶ್ರೀ ಕೃಷ್ಣದೇವರಾಯರು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಪ್ರಸಿದ್ಧ ಸಾಮ್ರಾಟರಾಗಿದ್ದರು. ಅವರು ಕಲೆ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಶಿಕ್ಷಣಕ್ಕೆ ಬೆಂಬಲ ನೀಡಿದರು. ಅವರ ರಾಜ್ಯ ದಕ್ಷಿಣ ಭಾರತದ ಅತ್ಯಂತ ಶಕ್ತಿಶಾಲಿ ರಾಜ್ಯಗಳಲ್ಲಿ ಒಂದಾಯಿತು.",
+      "statue_lat": 15.335,
+      "statue_lng": 76.46,
+      "quiz": [
+        {
+          "question_en": "Which empire did Krishnadevaraya rule?",
+          "question_kn": "ಕೃಷ್ಣದೇವರಾಯರು ಯಾವ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಆಡಳಿತ ನಡೆಸಿದರು?",
+          "options_en": [
+            "Vijayanagara Empire",
+            "Mughal Empire",
+            "Maurya Empire",
+            "Chola Empire"
+          ],
+          "options_kn": [
+            "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ",
+            "ಮುಗಲ್ ಸಾಮ್ರಾಜ್ಯ",
+            "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ",
+            "ಚೋಳ ಸಾಮ್ರಾಜ್ಯ"
+          ],
+          "answer": "Vijayanagara Empire"
+        },
+        {
+          "question_en": "What did Krishnadevaraya support?",
+          "question_kn": "ಕೃಷ್ಣದೇವರಾಯರು ಯಾವುದಕ್ಕೆ ಬೆಂಬಲ ನೀಡಿದರು?",
+          "options_en": [
+            "Art and education",
+            "Piracy",
+            "Hunting",
+            "Magic"
+          ],
+          "options_kn": [
+            "ಕಲೆ ಮತ್ತು ಶಿಕ್ಷಣ",
+            "ಕಳ್ಳತನ",
+            "ಬೇಟೆ",
+            "ಮಾಯೆ"
+          ],
+          "answer": "Art and education"
+        }
+      ]
+    },
+    {
+      "id": "vijayapura",
+      "district_name_en": "Vijayapura",
+      "district_name_kn": "ವಿಜಯಪುರ",
+      "hero_name_en": "Ibrahim Adil Shah II",
+      "hero_name_kn": "ಇಬ್ರಾಹಿಂ ಆದಿಲ್ ಶಾಹ್ II",
+      "story_en": "Ibrahim Adil Shah II loved music and art. He encouraged people from different cultures to live together happily. He made Vijayapura famous for culture and beauty.",
+      "story_kn": "ಇಬ್ರಾಹಿಂ ಆದಿಲ್ ಶಾಹ್ II ಅವರಿಗೆ ಸಂಗೀತ ಮತ್ತು ಕಲೆಯ ಮೇಲೆ ಪ್ರೀತಿ ಇತ್ತು. ವಿವಿಧ ಸಂಸ್ಕೃತಿಯ ಜನರು ಒಟ್ಟಿಗೆ ಸಂತೋಷದಿಂದ ಬದುಕಲು ಉತ್ತೇಜಿಸಿದರು. ವಿಜಯಪುರವನ್ನು ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸೌಂದರ್ಯಕ್ಕೆ ಪ್ರಸಿದ್ಧಗೊಳಿಸಿದರು.",
+      "statue_lat": 16.8302,
+      "statue_lng": 75.71,
+      "quiz": [
+        {
+          "question_en": "What did Ibrahim Adil Shah love?",
+          "question_kn": "ಇಬ್ರಾಹಿಂ ಆದಿಲ್ ಶಾಹ್ ಅವರಿಗೆ ಏನಿನ ಮೇಲೆ ಪ್ರೀತಿ ಇತ್ತು?",
+          "options_en": [
+            "Music and art",
+            "Farming",
+            "Fishing",
+            "Cars"
+          ],
+          "options_kn": [
+            "ಸಂಗೀತ ಮತ್ತು ಕಲೆ",
+            "ಕೃಷಿ",
+            "ಮೀನುಗಾರಿಕೆ",
+            "ಕಾರುಗಳು"
+          ],
+          "answer": "Music and art"
+        },
+        {
+          "question_en": "Which city became famous for culture?",
+          "question_kn": "ಯಾವ ನಗರ ಸಂಸ್ಕೃತಿಗೆ ಪ್ರಸಿದ್ಧವಾಯಿತು?",
+          "options_en": [
+            "Vijayapura",
+            "Hassan",
+            "Kolar",
+            "Mandya"
+          ],
+          "options_kn": [
+            "ವಿಜಯಪುರ",
+            "ಹಾಸನ",
+            "ಕೋಲಾರ",
+            "ಮಂಡ್ಯ"
+          ],
+          "answer": "Vijayapura"
+        }
+      ]
+    },
+    {
+      "id": "yadgir",
+      "district_name_en": "Yadgir",
+      "district_name_kn": "ಯಾದಗಿರಿ",
+      "hero_name_en": "Allama Prabhu",
+      "hero_name_kn": "ಅಲ್ಲಮ ಪ್ರಭು",
+      "story_en": "Allama Prabhu was a great saint and poet from Karnataka. He taught people to live simply and speak truthfully. His vachanas still inspire many children and elders.",
+      "story_kn": "ಅಲ್ಲಮ ಪ್ರಭು ಕರ್ನಾಟಕದ ಮಹಾನ್ ಸಂತ ಮತ್ತು ಕವಿ ಆಗಿದ್ದರು. ಅವರು ಸರಳವಾಗಿ ಬದುಕಿ ಸತ್ಯವನ್ನು ಹೇಳಬೇಕು ಎಂದು ಬೋಧಿಸಿದರು. ಅವರ ವಚನಗಳು ಇಂದಿಗೂ ಜನರಿಗೆ ಪ್ರೇರಣೆ ನೀಡುತ್ತವೆ.",
+      "statue_lat": 16.7704,
+      "statue_lng": 77.1376,
+      "quiz": [
+        {
+          "question_en": "Who was Allama Prabhu?",
+          "question_kn": "ಅಲ್ಲಮ ಪ್ರಭು ಯಾರು?",
+          "options_en": [
+            "Saint and poet",
+            "Pilot",
+            "Soldier",
+            "Farmer"
+          ],
+          "options_kn": [
+            "ಸಂತ ಮತ್ತು ಕವಿ",
+            "ಪೈಲಟ್",
+            "ಸೈನಿಕ",
+            "ರೈತ"
+          ],
+          "answer": "Saint and poet"
+        },
+        {
+          "question_en": "What did Allama Prabhu teach?",
+          "question_kn": "ಅಲ್ಲಮ ಪ್ರಭು ಏನು ಬೋಧಿಸಿದರು?",
+          "options_en": [
+            "Simple and truthful living",
+            "War skills",
+            "Treasure hunting",
+            "Fishing"
+          ],
+          "options_kn": [
+            "ಸರಳ ಮತ್ತು ಸತ್ಯ ಜೀವನ",
+            "ಯುದ್ಧ ಕೌಶಲ್ಯ",
+            "ಖಜಾನೆ ಹುಡುಕುವುದು",
+            "ಮೀನುಗಾರಿಕೆ"
+          ],
+          "answer": "Simple and truthful living"
+        }
+      ]
+    }
+  ]
+}

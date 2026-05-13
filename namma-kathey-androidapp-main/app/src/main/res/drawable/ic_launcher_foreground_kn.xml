@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Gold Frame / Shield -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,15 C35,15 22,25 22,45 L22,75 C22,85 35,93 54,93 C73,93 86,85 86,75 L86,45 C86,25 73,15 54,15 Z" />
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M54,18 C37,18 25,27 25,45 L25,73 C25,82 37,90 54,90 C71,90 83,82 83,73 L83,45 C83,27 71,18 54,18 Z" />
+
+    <!-- Stylized Map Silhouette (Faded Background) -->
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M50,30 L55,30 L60,35 L62,45 L58,55 L50,60 L45,50 L48,35 Z" />
+
+    <!-- The Open Book -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M35,75 L54,82 L73,75 L73,65 L54,72 L35,65 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,65 C35,65 45,60 54,65 C63,60 73,65 73,65 L73,75 C73,75 63,70 54,75 C45,70 35,75 35,75 Z" />
+
+    <!-- Hero Silhouette -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M52,45 C52,43 54,41 54,41 C54,41 56,43 56,45 L56,65 L52,65 Z" /> <!-- Body -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M54,40 A3,3 0 1 1 54,34 A3,3 0 1 1 54,40" /> <!-- Head -->
+
+    <!-- The Torch & Flame -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M58,45 L62,40 L63,41 L59,46 Z" /> <!-- Torch Handle -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M62,40 C62,40 60,35 63,30 C66,35 64,40 64,40 Z" /> <!-- Flame -->
+
+</vector>

@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Namma-Kathey</string>
+    <string name="choose_hero">Choose Your Hero!</string>
+    <string name="listen">Listen</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="quiz_coming_soon">Quiz Coming Soon!</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="select_hero">Select a Hero</string>
+    <string name="toggle_language">Toggle Language</string>
+    <string name="language_label_kn">ಕನ್ನಡ</string>
+    <string name="language_label_en">English</string>
+    <string name="correct">Correct!</string>
+    <string name="wrong">Wrong. Try again!</string>
+    <string name="quiz_finished">Quiz Finished!</string>
+    <string name="score">Score: %1$d/%2$d</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="map_title">Tap a district</string>
+    <string name="map_subtitle">Explore Karnataka and meet local heroes.</string>
+    <string name="nav_map_en">Map</string>
+    <string name="nav_map_kn">ನಕ್ಷೆ</string>
+    <string name="nav_heroes_en">Heroes</string>
+    <string name="nav_heroes_kn">ವೀರರು</string>
+    <string name="nav_badges_en">Badges</string>
+    <string name="nav_badges_kn">ಬ್ಯಾಡ್ಜ್‌ಗಳು</string>
+    <string name="heroes_in_district">Heroes in %1$s</string>
+    <string name="no_heroes_in_district">No hero stories here yet. Try another district!</string>
+    <string name="badge_room_title">Heritage Badge Room</string>
+    <string name="badge_room_subtitle">Finish a quiz perfectly to unlock a badge.</string>
+    <string name="badge_unlocked">Unlocked</string>
+    <string name="badge_locked">Locked</string>
+    <string name="narrate">Narrate</string>
+    <string name="stop_narration">Stop</string>
+    <string name="statue_finder">Find statue on Maps</string>
+    <string name="quiz_none_selected">Pick a story quiz from a hero page.</string>
+
+    <string name="default_web_client_id" translatable="false">1023097454285-gsftdbblc0qpo88m614b7thhag2r8n4s.apps.googleusercontent.com</string>
+
+    <string name="google_needs_web_client">Paste your OAuth Web Client ID into default_web_client_id in strings.xml after enabling Google Sign-In in Firebase.</string>
+
+    <string name="auth_welcome_title">Welcome to Namma-Kathey</string>
+    <string name="auth_welcome_hint">Sign in so your badges save with your account—or explore as a guest.</string>
+    <string name="auth_email_hint">Email</string>
+    <string name="auth_password_hint">Password</string>
+    <string name="auth_confirm_password">Confirm password</string>
+    <string name="auth_sign_in">Sign in</string>
+    <string name="auth_need_account">New here? Create an account</string>
+    <string name="auth_have_account">Already have an account? Sign in</string>
+    <string name="auth_forgot_password">Forgot password?</string>
+    <string name="auth_reset_send">Send reset mail</string>
+    <string name="auth_cancel">Cancel</string>
+    <string name="auth_google_button">Sign in with Google</string>
+    <string name="auth_phone_continue">Sign in with phone (OTP)</string>
+    <string name="auth_guest_continue">Continue as guest — map now</string>
+    <string name="auth_mobile_label">Mobile number</string>
+    <string name="auth_phone_hint_instruction">Add +91 followed by your 10‑digit mobile number.</string>
+    <string name="auth_send_otp">Send OTP</string>
+    <string name="auth_otp_hint">Enter the 6‑digit OTP we texted you.</string>
+    <string name="auth_otp_digits">OTP digits</string>
+    <string name="auth_verify_otp">Verify &amp; sign in</string>
+    <string name="auth_change_number">Wrong number?</string>
+    <string name="auth_back">Back</string>
+    <string name="auth_create_account">Create account</string>
+    <string name="sign_out">Sign out</string>
+</resources>
